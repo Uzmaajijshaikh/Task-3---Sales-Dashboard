@@ -34,8 +34,8 @@ Dashboard Interactivity - The Region slicer allows users to select a specific re
 Dataset Note - The cleaned Sample Superstore dataset does not contain a Date or Month field. Therefore, monthly analysis and a month filter were not included in the dashboard.
 
 Files
-1. Task_3_Sales_Dashboard.pbix - Interactive Power BI dashboard
-2. Sales_Dashboard_Reading_Note.pdf - One-page note explaining how to read the dashboard
+1. Task 3.pbix - Interactive Power BI dashboard
+2. Sales Dashboard Note.pdf - One-page note explaining how to read the dashboard
 3. README.md - Summary of the dashboard project
 
 Conclusion - The Sample Superstore dataset was transformed into an interactive Power BI dashboard containing key performance indicators, product-level analysis, regional analysis, and an interactive Region slicer. The dashboard provides a simple visual summary that can help stakeholders understand sales performance.
